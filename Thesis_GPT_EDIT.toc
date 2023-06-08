@@ -1,0 +1,72 @@
+\contentsline {section}{\numberline {1}Introduction}{7}{section.1}%
+\contentsline {section}{\numberline {2}Scope Analysis}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Breakdown of Individual Requirements}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Requirement Goals - Part A}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Requirement Goals - Part B}{10}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Project Management}{12}{section.3}%
+\contentsline {section}{\numberline {4}In Lab Instrument Research}{13}{section.4}%
+\contentsline {section}{\numberline {5}Market Research}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Bench-top Spectroscopy Instruments}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Dry Material Transportation}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Methods of Sample Presentation}{16}{subsection.5.3}%
+\contentsline {section}{\numberline {6}High-Level System Design}{18}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Design Principles}{18}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Manufacturing and Material Selection}{18}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Design of Sub-Systems}{18}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Control Schema Iterations}{19}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Initial Testing}{20}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Prototype Design}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Mechanical Design}{21}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Electro-mechanical Design}{26}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Sub-systems Testing}{26}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Prototype Build 1}{28}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Prototype System Overview}{28}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Control SCHEMA}{29}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Next Steps}{29}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Interim Work}{31}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Development of Motor Control Program}{31}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Changes to Program and Control Design}{31}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Changes to Physical Design}{33}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Final Program Design}{39}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Program Design and Implementation}{39}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Instrument Movement Control}{40}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Instrument Scan Control}{41}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Data Collection}{42}{subsection.10.4}%
+\contentsline {section}{\numberline {11}Final Mechanical Design}{46}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Design Features}{46}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Design Justifications}{47}{subsection.11.2}%
+\contentsline {section}{\numberline {12}System Testing}{48}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Movement Tests}{48}{subsection.12.1}%
+\contentsline {subsubsection}{\numberline {12.1.1}Movement Test 1 - Repeated Single Sample Scanning}{48}{subsubsection.12.1.1}%
+\contentsline {subsubsection}{\numberline {12.1.2}Movement Test 2 - Multi Sample Scanning}{49}{subsubsection.12.1.2}%
+\contentsline {subsubsection}{\numberline {12.1.3}Movement Test 3}{50}{subsubsection.12.1.3}%
+\contentsline {subsection}{\numberline {12.2}Data Collection Tests}{51}{subsection.12.2}%
+\contentsline {subsubsection}{\numberline {12.2.1}Data Collection Test 1 - Data Collection Reliability}{52}{subsubsection.12.2.1}%
+\contentsline {subsubsection}{\numberline {12.2.2}Data Collection Test 2 - Scanning With Gap}{53}{subsubsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.3}Testing Assessment}{55}{subsection.12.3}%
+\contentsline {subsubsection}{\numberline {12.3.1}Movement Test Assessment}{55}{subsubsection.12.3.1}%
+\contentsline {subsubsection}{\numberline {12.3.2}Data Collection Test Assessment}{56}{subsubsection.12.3.2}%
+\contentsline {section}{\numberline {13}System Refinement}{57}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Issues Present in Testing}{57}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Design Flaws}{57}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Proposed Fixes}{57}{subsection.13.3}%
+\contentsline {section}{\numberline {14}Critical Analysis of Position}{58}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Scope Requirement Fulfillment}{58}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Final System Assessment}{58}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Conclusions Gained From Testing}{58}{subsection.14.3}%
+\contentsline {section}{\numberline {15}Conclusion}{59}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Project Summary}{59}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Critical Review of Objectives}{59}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Critical Analysis of the Approach}{59}{subsection.15.3}%
+\contentsline {section}{\numberline {16}Acknowledgments}{61}{section.16}%
+\contentsline {section}{\numberline {A}Appendix A - Reflection}{62}{appendix.A}%
+\contentsline {section}{\numberline {B}Appendix B - Program Scripts}{63}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Appendix B.1 - Script 1}{63}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}Appendix B.2 - Script 2}{63}{subsection.B.2}%
+\contentsline {subsection}{\numberline {B.3}Appendix B.3 - Script 3}{63}{subsection.B.3}%
+\contentsline {section}{\numberline {C}Appendix C - Spectral Data}{64}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Appendix C.1 - Spectral Data 1}{64}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Appendix C.2 - Spectral Data 2}{64}{subsection.C.2}%
+\contentsline {subsection}{\numberline {C.3}Appendix C.3 - Spectral Data 3}{64}{subsection.C.3}%
+\contentsline {section}{\numberline {D}Appendix D - Mechanical Design Details}{65}{appendix.D}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
